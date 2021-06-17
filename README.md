@@ -1,4 +1,3 @@
-![Análisis de mallas](https://user-images.githubusercontent.com/85137954/122482712-b3971880-cf96-11eb-90ff-165bac4c241e.png)
 # Informe de Laboratorio 3
 # 1. Objetivo General
 
