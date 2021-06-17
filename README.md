@@ -1,3 +1,4 @@
+![Análisis de mallas](https://user-images.githubusercontent.com/85137954/122482712-b3971880-cf96-11eb-90ff-165bac4c241e.png)
 # Informe de Laboratorio 3
 # 1. Objetivo General
 
@@ -10,6 +11,8 @@
 
 
 # 3. Marco Teórico
+
+![Análisis de mallas](https://user-images.githubusercontent.com/85137954/122482715-b5f97280-cf96-11eb-8398-b09c400dee77.png)
 
 
 # 4. Material y Equipo Requerido
