@@ -1,4 +1,4 @@
-Informe de Laboratorio 2
+# Informe de Laboratorio 3
 # 1. Objetivo General
 
 
