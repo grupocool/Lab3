@@ -1,10 +1,12 @@
 # Informe de Laboratorio 3
 # 1. Objetivo General
-
+- Comprobar experimentalmente el análisis de nodos en un circuito armado.
 
 ## 1.2 Objetivos Específicos
 
-
+- Aplicar el método de nodos para determinar los voltajes presentes en un circuito eléctrico.
+- Aprender esta técnica en el cálculo de las caídas de tensión presente en redes que contengan múltiples nodos.
+- Comparar el valor de medición de voltaje obtenido en cada nodo.
 
 # 2. Requisitos Previos
 
@@ -56,6 +58,10 @@
 
 
 # 7. Conclusiones
+- Aplicando el método del voltaje en los nodos, planteamos un sistema de ecuaciones independientes con voltajes y corrientes desconocidos. 
+- Aprendimos a usar la ley de Ohm a nuestra conveniencia, realizando expresiones desde nuestra cabeza. Mientras se iba desarrollando el circuito simplemente aplicamos conocimientos previos. Esto complementa al método de nodos y un mejor manejo.
+- Comparando el valor de medición podemos encontrar que existe una diferencia de voltaje, si tenemos en cuenta diferentes puntos de referencia.
+- Como recomendación sugerimos identificar claramente un nodo en cada circuito, tener conocimientos previos de qué es un nodo y ley de ohm.
 
 # 8. Referencias
 
