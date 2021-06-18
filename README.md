@@ -57,7 +57,7 @@
 
 
 # 6. Video
-
+https://youtu.be/vkoeCiyxGXY
 
 # 7. Conclusiones
 - Aplicando el método del voltaje en los nodos, planteamos un sistema de ecuaciones independientes con voltajes y corrientes desconocidos. 
