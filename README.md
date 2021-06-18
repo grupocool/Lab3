@@ -29,13 +29,15 @@
 
 5.1 Arme el circuito que se muestra en la figura
 
+![image](https://user-images.githubusercontent.com/85137954/122497851-ae949200-cfb3-11eb-901a-eae29709966c.png)
 
 - Simulacion del circuito construido en Tinkercad
+![WhatsApp Image 2021-06-17 at 21 44 49](https://user-images.githubusercontent.com/85137954/122509254-11dcef00-cfc9-11eb-8218-f13a01612471.jpeg)
 
 
 - Calculos realizados en la simulacion
 
-![image](https://user-images.githubusercontent.com/85137954/122497851-ae949200-cfb3-11eb-901a-eae29709966c.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/85137954/122496766-e8649900-cfb1-11eb-8ccc-d8f79deb99a3.png)
