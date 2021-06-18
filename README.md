@@ -35,7 +35,7 @@
 
 - Simulacion del circuito construido en Tinkercad
 
-![image](https://user-images.githubusercontent.com/85137954/122509780-fb836300-cfc9-11eb-9b26-9d55dd4d83df.png)
+![image](https://user-images.githubusercontent.com/85137954/122510418-2f12bd00-cfcb-11eb-8b6d-8d9047642d2d.png)
 
 
 - Calculos realizados en la simulacion
