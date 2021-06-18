@@ -51,6 +51,10 @@
 
 ![image](https://user-images.githubusercontent.com/85137954/122510291-fc68c480-cfca-11eb-87b0-ee799b0f5da2.png)
 
+5.3 Compare los valores de la tabla 3.1 y realice sus conclusiones.
+
+![image](https://user-images.githubusercontent.com/85137954/122511416-d2b09d00-cfcc-11eb-94c6-79eae5e6ce5e.png)
+
 
 # 6. Video
 
