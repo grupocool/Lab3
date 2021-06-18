@@ -42,17 +42,6 @@
 
 
 
-![image](https://user-images.githubusercontent.com/85137954/122496766-e8649900-cfb1-11eb-8ccc-d8f79deb99a3.png)
-
-![image](https://user-images.githubusercontent.com/85137954/122496896-219d0900-cfb2-11eb-9e22-3b0abe222052.png)
-
-![image](https://user-images.githubusercontent.com/85137954/122496998-501ae400-cfb2-11eb-84a8-300b0c9531e4.png)
-
-![image](https://user-images.githubusercontent.com/85137954/122497165-92442580-cfb2-11eb-9248-c995e0cee67a.png)
-
-![image](https://user-images.githubusercontent.com/85137954/122497640-552c6300-cfb3-11eb-9917-bc94f1ded7e3.png)
-
-
 
 5.2 Mida cada uno de los voltajes de nodo y anote los resultados en la tabla
 
