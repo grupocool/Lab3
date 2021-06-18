@@ -41,11 +41,15 @@
 - Calculos realizados en la simulacion
 
 
-
-
-
 5.2 Mida cada uno de los voltajes de nodo y anote los resultados en la tabla
 
+![image](https://user-images.githubusercontent.com/85137954/122509948-51580b00-cfca-11eb-82d0-1e1e9f1a0c7c.png)
+
+![image](https://user-images.githubusercontent.com/85137954/122510073-8ebc9880-cfca-11eb-9d72-8b7d5acb6a6d.png)
+
+![image](https://user-images.githubusercontent.com/85137954/122510193-c75c7200-cfca-11eb-830d-f197584085e8.png)
+
+![image](https://user-images.githubusercontent.com/85137954/122510291-fc68c480-cfca-11eb-87b0-ee799b0f5da2.png)
 
 
 # 6. Video
