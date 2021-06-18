@@ -10,11 +10,13 @@
 
 # 2. Requisitos Previos
 
-![image](https://user-images.githubusercontent.com/85137954/122497983-f4e9f100-cfb3-11eb-9964-cdc240847e24.png)
+![image](https://user-images.githubusercontent.com/85137954/122509322-346f0800-cfc9-11eb-972b-620677cbb3fe.png)
 
-![image](https://user-images.githubusercontent.com/85137954/122498062-15b24680-cfb4-11eb-9c62-4f388397d638.png)
+![image](https://user-images.githubusercontent.com/85137954/122509414-5a94a800-cfc9-11eb-82ac-5447a943e7ee.png)
 
-![image](https://user-images.githubusercontent.com/85137954/122498133-3084bb00-cfb4-11eb-9599-319aeffe0596.png)
+![image](https://user-images.githubusercontent.com/85137954/122509498-81eb7500-cfc9-11eb-8c4f-904c53f0fb37.png)
+
+![image](https://user-images.githubusercontent.com/85137954/122509570-9fb8da00-cfc9-11eb-8f08-0ef295c1b0b6.png)
 
 # 3. Marco Teórico
 
