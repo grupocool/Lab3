@@ -50,7 +50,7 @@
 
 
 
-5.2 Mida cada una de las corrientes de malla y anote los resultados en la tabla
+5.2 Mida cada uno de los voltajes de nodo y anote los resultados en la tabla
 
 
 
