@@ -16,7 +16,7 @@
 
 ![image](https://user-images.githubusercontent.com/85137954/122497165-92442580-cfb2-11eb-9248-c995e0cee67a.png)
 
-
+![image](https://user-images.githubusercontent.com/85137954/122497640-552c6300-cfb3-11eb-9917-bc94f1ded7e3.png)
 
 # 3. Marco Teórico
 
