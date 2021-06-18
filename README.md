@@ -60,6 +60,9 @@
 # 8. Referencias
 
 Hazen, M. E. Fundamentals of DC and AC Circuits. Philadelphia, PA: Saunders, 1990.
+
 Hostetter, G. H. Engineering Network Analysis. Nueva York: Harper & Row, 1984.
+
 Huelsman, L. P. Basic Circuit Theory. 3a. ed. Englewood Cliffs, NJ: Prentice Hall, 1991.
+
 Irwin, J. D. Basic Engineering Circuit Analysis. 7a. ed. Nueva York: John Wiley & Sons, 2001
